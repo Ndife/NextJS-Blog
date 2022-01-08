@@ -26,7 +26,7 @@ export default function Home({ allPostsData }) {
         <p>I am a full-stack web developer who is proficient in both frontend and backend technologies. My passion lies in learning about the latest technologies and building tools to help humanity.<br/><br/> I write test and integrate software products with continuous integration tools for maintaining the quality of the software product. My core technical skills include React, Nodejs, Graphql and Typescript.</p>
         <p>
           (This is a sample website - built using{' '}
-          <a href="https://nextjs.org/learn">Next.js tutorial</a>.)
+          <a href="https://nextjs.org/learn">Next.js tutorials</a>.)
         </p>
       </section>
 
